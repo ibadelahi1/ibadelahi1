@@ -1,8 +1,3 @@
-# About Me
-
-## Hello World! This is me Ibad Elahi,
-UX/UI designer and Frontend developer
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
@@ -15,7 +10,7 @@ UX/UI designer and Frontend developer
 
 <br>
 
-Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
+Hi, I'm [Ibad Elahi](https://www.abhishekmaira.com/), a UX/UI Designer and Frontend Developer 👨🏻‍💻 from Pakistan. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play Snooker ♘ and Fifa ⚽.
 I support Manchester United 👿 and Barcelona 😎.
 
 <br>
@@ -26,7 +21,7 @@ I support Manchester United 👿 and Barcelona 😎.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
+ - 📫 How to reach me: [ibadelahi01@gmail.com](mailto:ibadelahi01@gmail.com);
  - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
  
  <br>
